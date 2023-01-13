@@ -12,9 +12,8 @@
      position:absolute;
      top:22%;
      left:67%;
-     /* text-align:center; */
     text-align-last: right;
-     /* right: 230px; */
+    
 }
 .banner-tittle{
     font-weight: 700;
@@ -58,7 +57,6 @@ section{
      align-items: center;
 }
 .failure-icon{
-    /* margin-top: 129px; */
     margin-left: 206px;
 }
 .failure-tittle{
@@ -66,7 +64,7 @@ section{
     font-size: 40px;
     color: #151414;
     line-height: 47px;
-     margin: 368px 469px 24px 90px; 
+     margin: 368px 222px 24px 90px; 
 }
 .failure-description{
     line-height: 26px;
@@ -93,7 +91,6 @@ section{
     line-height: 47px;
     color: #151414;
     text-align: center;
-    /* margin-left: 422px; */
 }
 /* div plans styles */
 .plans-execution-container{
@@ -125,7 +122,7 @@ section{
     align-items: center;
 }
 .gradient-item{
-    background: -webkit-repeating-linear-gradient(rgba(24, 186, 159, 0.7)), rgba(222, 67, 69, 0.7),url(../images/gradient3.png);
+    background:linear-gradient(rgba(24, 186, 159, 0.7)), rgba(222, 67, 69, 0.7),url(../images/gradient3.png);
     background-size: cover;
 
 }
