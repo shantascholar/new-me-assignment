@@ -66,16 +66,13 @@ section{
     font-size: 40px;
     color: #151414;
     line-height: 47px;
-    /* margin: 368px 379px 24px 89px;  */
-    margin-right: 449px;
-    margin-left: 94px;
+     margin: 368px 469px 24px 90px; 
 }
 .failure-description{
     line-height: 26px;
     color: #444343;
     margin-left: 86px;
     margin-right: 322px;
-    margin-top: 24px;
 
 }
 .failure-reasons{
