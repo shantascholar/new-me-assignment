@@ -207,6 +207,7 @@ footer{
 .contact input[type="subscribe"]{
     color: #F15B22;
     margin: 20px 3px;
+    padding: 13px 3px;
     border: 0;
     text-align: center;
 }
